@@ -1,0 +1,53 @@
+body
+{
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  margin: auto;
+}
+#header-nav
+{
+  background-color: #f6b319;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+button.navbar-toggler
+{
+  border: 1px solid #61122f;
+}
+
+.navbar-brand h1
+{
+  font-family: 'lora', serif;
+  color: #557c3e;
+  font-size: 1.6em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a
+{
+  text-decoration: none;
+}
+.tiles
+{
+  background-color: grey;
+  height: 700px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#nav-list
+{
+  background-color: white;
+  font-weight: bold;
+  border-radius: 10px;
+  margin: -1em;
+  margin-top: 10px;
+}
+.nav-link
+{
+  border: 2px solid black;
+  font-size: 1.2em;
+}
